@@ -8,7 +8,7 @@
 
   Opção 2: Verificar os jogos salvos pelo usuário.
 
-  Opção 3: Remover um jogo salvo.
+  Opção 3: Remover um jogo salvo pelo usuário.
 
   Opção 4: Atualizar a nota de um jogo salvo pelo usuário.
 
