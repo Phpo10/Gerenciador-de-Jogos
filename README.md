@@ -19,3 +19,8 @@
 * Caso o usuário escolha a opção 1, o programa perguntará qual jogo será avaliado, salvará o jogo na lista de jogos e fará perguntas para o usuário avaliar o jogo escolhido.
 
 * Depois de avaliar e salvar o jogo escolhido, o programa calculará a média da nota e a adicionará na lista de notas dos jogos avaliados pelo usuário.
+
+![image](https://github.com/user-attachments/assets/69499a60-a89e-4f0f-afde-814d90726ac2)
+
+* Caso o usuário escolha a opção 2, o programa avaliará se há jogos na lista. Caso haja, ele irá mostrar os jogos salvos pelo usuário.
+* Caso o usuário não tenha salvo nenhum jogo, o programa exibirá na tela uma mensagem informando que não há nenhum jogo salvo.
