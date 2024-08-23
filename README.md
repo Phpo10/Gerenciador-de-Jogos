@@ -25,5 +25,6 @@
 * Caso o usuário escolha a opção 2, o programa avaliará se há jogos na lista. Caso haja, ele irá mostrar os jogos salvos pelo usuário.
 * Caso o usuário não tenha salvo nenhum jogo, o programa exibirá na tela uma mensagem informando que não há nenhum jogo salvo.
 
-![image](https://github.com/user-attachments/assets/08125657-5352-4d54-baff-0fa32138d434)
+![image](https://github.com/user-attachments/assets/39ce2e5d-209f-4500-a82f-4974514622c6)
 
+* Caso o usuário escolha a opção 3, o programa
