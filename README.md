@@ -13,3 +13,9 @@
   Opção 4: Atualizar a nota de um jogo salvo pelo usuário.
 
   A opção 0 permite que o usuário saia do programa.
+
+![image](https://github.com/user-attachments/assets/0652aeac-5415-46e0-b763-022cc6b52bf3)
+
+* Caso o usuário escolha a opção 1, o programa perguntará qual jogo será avaliado, salvará o jogo na lista de jogos e fará perguntas para o usuário avaliar o jogo escolhido.
+
+* Depois de avaliar e salvar o jogo escolhido, o programa calculará a média da nota e a adicionará na lista de notas dos jogos avaliados pelo usuário.
