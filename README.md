@@ -27,4 +27,7 @@
 
 ![image](https://github.com/user-attachments/assets/39ce2e5d-209f-4500-a82f-4974514622c6)
 
-* Caso o usuário escolha a opção 3, o programa
+* Caso o usuário escolha a opção 3, o programa avaliará a mesma coisa que faz na segunda opção, avaliará se tem jogo na lista de jogos. Caso haja, ele irá mostrar todos os jogos salvos e perguntará qual deles, o usuário deseja remover.
+* Após colocar o número do jogo, o programa removerá o jogo com sucesso.
+* Caso o usuário digite um número de jogo inexistente, o programa avisará ao usuário que a escolha não é reconhecida e entrará em um loop infinito para verificar se o usuário deseja continuar removendo um jogo ou voltar para o menu principal.
+* 
