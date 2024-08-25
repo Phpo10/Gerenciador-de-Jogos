@@ -27,11 +27,12 @@
 
 ![image](https://github.com/user-attachments/assets/39ce2e5d-209f-4500-a82f-4974514622c6)
 
-* Caso o usuário escolha a opção 3, o programa avaliará a mesma coisa que na segunda opção: verificará se há jogos na lista. Caso haja, ele mostrará todos os jogos salvos e perguntará qual deles o usuário deseja remover. Após inserir o número do jogo, o programa removerá o jogo com sucesso.
+* Caso o usuário escolha a opção 3, o programa avaliará a mesma coisa que na segunda opção: verificará se há jogos na lista. Caso haja, ele mostrará todos os jogos salvos e perguntará qual deles o usuário deseja remover.
+* Após inserir o número do jogo, o programa removerá o jogo com sucesso.
 * Caso o usuário digite um número de jogo inexistente, o programa avisará que a escolha não é reconhecida e entrará em um loop infinito para verificar se o usuário deseja continuar removendo um jogo ou voltar para o menu principal.
 
 ![image](https://github.com/user-attachments/assets/ed09cfd0-8dab-4568-afbb-4dd7004a4466)
 
-* Caso o usuário escolha a opção 4, o programa avaliará a mesma coisa das opções anteriores: verificará se há jogos na lista. Caso haja, ele fara a mesma coisa da opção 3, ele mostrará os jogos salvos e perguntará qual deles o usuário deseja atualizar a nota.
-* Após inserir o número do jogo, o programa fara as mesmas perguntas que fez no inicio do programa e reavaliará o jogo novamente.
-
+* Caso o usuário escolha a opção 4, o programa avaliará a mesma coisa das opções anteriores: verificará se há jogos na lista. Caso haja, ele fará a mesma coisa da opção 3: mostrará os jogos salvos e perguntará qual deles o usuário deseja atualizar a nota.
+* Após inserir o número do jogo, o programa fará as mesmas perguntas que fez no início do programa e atualizará a nota do jogo escolhido.
+* Caso o usuário digite um número de jogo inexistente, acontecerá a mesma coisa da opção 3.
